@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Views.AuthorizedView" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Views\AuthorizedView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.Bank" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADEAAAQIYAiAAIAAkgAAAAcigIBAQAAAGgABAAkAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\Bank.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Models.BankSystem.BankAccount" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQCAASAQAAAAAAAAABAAAAAAAAAAkACAAAAAAAABgA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.BankAction" Collapsed="true">
+    <Position X="2" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIACAAEAAAACAAAEAABAAAAAQAAACAAgIAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\BankAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.CompanyAccount" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\CompanyAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.Credit" Collapsed="true">
+    <Position X="3" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\Credit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.Duty" Collapsed="true">
+    <Position X="3" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACASAAAAAAAAEAAAAAAAAQAAAAAAAIAAAAgAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\Duty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.Logger" Collapsed="true">
+    <Position X="19" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.PaymentProject" Collapsed="true">
+    <Position X="19" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIACAAEAAAACAAAEAABAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\PaymentProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.BankSystem.Transfer" Collapsed="true">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAASAAAAAAAAEAAAAAAAEQgAIAAAAIAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\BankSystem\Transfer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.CompanySystem.Company" Collapsed="true">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAAgBAAAQACAAAgAQCARAAAEAgAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\CompanySystem\Company.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.CompanySystem.Employee" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAgAA=</HashCode>
+      <FileName>Assets\Scripts\Models\CompanySystem\Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.DataBase" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBgGAKAhAUiwxARABAADEASQBIQAiMAAEiFACABAUJA=</HashCode>
+      <FileName>Assets\Scripts\Models\DataBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Models.Exceptions.InvalidCastActionException" Collapsed="true">
+    <Position X="17.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\InvalidCastActionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NoSuchAccountException" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NoSuchAccountException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NoSuchActionException" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NoSuchActionException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NoSuchBankException" Collapsed="true">
+    <Position X="17.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NoSuchBankException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NoSuchProjectException" Collapsed="true">
+    <Position X="19" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NoSuchProjectException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NotCompanyAccountException" Collapsed="true">
+    <Position X="20.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NotCompanyAccountException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.Exceptions.NotEnoughCashException" Collapsed="true">
+    <Position X="22.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Exceptions\NotEnoughCashException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Admin" Collapsed="true">
+    <Position X="17.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Authorizer" Collapsed="true">
+    <Position X="19" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Authorizer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Client" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAQCAAAAAAABAAAAQAFigAAAAAAAEAIAAEEBE=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Manager" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQQAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Operator" Collapsed="true">
+    <Position X="24.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Models.UserSystem.Passport" Collapsed="true">
+    <Position X="17.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAEBAAAAAABAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\UserSystem\Passport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverSystem.Observable" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAABAQAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObserverSystem\Observable.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModels.AdminVM" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\AdminVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModels.AuthorizerVM" Collapsed="true">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAEAIAAAAAAEAEAAAAACAAIAAAAgCAQAAAAABEAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\AuthorizerVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModels.ClientVM" Collapsed="true">
+    <Position X="14.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAQASAAQAAAAAAAAAAAAIEAgACAgQAAAEQAAAAlAA=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\ClientVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModels.CompanyVM" Collapsed="true">
+    <Position X="1.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQQAEAAAAQAAAAAAAgAAAAAACAAAgAAAAAAQAAAgAAA=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\CompanyVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModels.ManagerVM" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\ManagerVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewModels.OperatorVM" Collapsed="true">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ViewModels\OperatorVM.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Views.AdminView" Collapsed="true">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAgAAAAAAQAAIAABAAAAAAAAAQAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\Views\AdminView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Views.AuthorizerView" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAMEAAAEgCIAAIAAAAAQAAaIEBAAQAAAggAIgABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Views\AuthorizerView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Views.ClientView" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBGAAQICIAAQCYCAAiAIIWAhCAAEAGAAEYAAEAEAA=</HashCode>
+      <FileName>Assets\Scripts\Views\ClientView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Views.CompanyView" Collapsed="true">
+    <Position X="11.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAgABAAIAAhIAgAAIAAAQgAAAAMA=</HashCode>
+      <FileName>Assets\Scripts\Views\CompanyView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Views.ManagerView" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBgAAAACAAgAEAAAgQAAIAADAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Views\ManagerView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Views.OperatorView" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAACAAgAEAAAAQAAIAABACAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Views\OperatorView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Models.Interfaces.IAdminBank" Collapsed="true">
+    <Position X="17.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\IAdminBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IClientBank" Collapsed="true">
+    <Position X="19" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAEigAAAAAAAEAAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\IClientBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.ICompanyBank" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAggAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\ICompanyBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IDataBase" Collapsed="true">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAggwAAABAADEASAAAAACAAAEgEACABAUBA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\IDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IManagerBank" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\IManagerBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Models.Interfaces.IOperatorBank" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Interfaces\IOperatorBank.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObserverSystem.IObserverable" Collapsed="true">
+    <Position X="17.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAACAABAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObserverSystem\IObservable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ObserverSystem.IObserver" Collapsed="true">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObserverSystem\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Models.Enums.ClientType" Collapsed="true">
+    <Position X="17.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAABAEAIAQ=</HashCode>
+      <FileName>Assets\Scripts\Models\Enums\ClientType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Models.Enums.DutyPeriod" Collapsed="true">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAgAAAAAAAAAAAAAAAAAAKAEAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Models\Enums\DutyPeriod.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
